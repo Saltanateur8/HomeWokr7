@@ -1,0 +1,25 @@
+{
+  "base": "som",
+  "rates": [
+    {
+      "code": "som",
+      "amount": 1,
+      "title": "Som"
+    },
+    {
+      "code": "rub",
+      "amount": 0.94,
+      "title": "Ruble"
+    },
+    {
+      "code": "euro",
+      "amount": 95.25,
+      "title": "Euro"
+    },
+    {
+      "code": "usd",
+      "amount": 88.19,
+      "title": "Dollar"
+    }
+  ]
+}
